@@ -1,7 +1,6 @@
 [user]
-  name = Devin Weaver
-  email = suki@tritarget.org
-  signingkey = DE767C8A
+  name = Justin Gill
+  email = jgillcentral@gmail.com
 
 [alias]
   s = status -sb
@@ -74,7 +73,7 @@
   branch = auto
 
 [github]
-  user = sukima
+  user = newhavengill
 
 [gui]
   diffopts = --patience
